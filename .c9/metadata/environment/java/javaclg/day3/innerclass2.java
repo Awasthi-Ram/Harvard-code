@@ -1,0 +1,1 @@
+{"filter":false,"title":"innerclass2.java","tooltip":"/java/javaclg/day3/innerclass2.java","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1657688960080,"hash":"fbbf34b3162d1457855f8f317c818d63ad20b5ea"}

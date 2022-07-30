@@ -504,3 +504,8 @@ git init
 git add .
 git staus
 git status
+git add .
+git commit -m" harward final commit"
+git branch -M main
+git remote add origin https://github.com/ramawasthi300/Haward-Codes.git
+git push -u origin main

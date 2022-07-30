@@ -1,0 +1,24 @@
+{
+    "cs50": {
+        "debug": {
+            "@name": {},
+            "@pid": {},
+            "@proxy": {},
+            "@runner": {}
+        },
+        "simple": {
+            "settings": {
+                "@revision": 6
+            }
+        }
+    },
+    "general": {
+        "@stripws": true
+    },
+    "language": {
+        "@undeclaredVars": true
+    },
+    "python": {
+        "@path": "/usr/local/lib/python3.7/site-packages"
+    }
+}

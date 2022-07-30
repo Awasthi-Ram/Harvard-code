@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: sorted50000.txt takes a short amount of time (2s) vs reversed50000 (15s) to sort slowest.
+
+sort2 uses: Merge Sort
+
+How do you know?: sorted50000.txt, reversed50000.txt and random50000.txt faster than any other code .
+
+sort3 uses: Selection Sort
+
+How do you know?: sorted50000.txt, reversed50000.txt and random50000.txt faster than any other code aspect sort 2
